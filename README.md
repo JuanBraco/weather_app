@@ -1,6 +1,6 @@
 # Weather_app project
 
-Digital library created with HTML, CSS, JS.
+The weather app lets you search up any location in the world and get real-time weather data using the Open Weather Map API.
 
 # Live demo
 
